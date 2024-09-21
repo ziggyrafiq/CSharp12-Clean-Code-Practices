@@ -1,0 +1,14 @@
+I:\GitHub\CSharp12-Clean-Code-Practices\CleanCodePractices\CleanCodePractices\obj\Debug\net8.0\CleanCodePractices.GeneratedMSBuildEditorConfig.editorconfig
+I:\GitHub\CSharp12-Clean-Code-Practices\CleanCodePractices\CleanCodePractices\obj\Debug\net8.0\CleanCodePractices.AssemblyInfoInputs.cache
+I:\GitHub\CSharp12-Clean-Code-Practices\CleanCodePractices\CleanCodePractices\obj\Debug\net8.0\CleanCodePractices.AssemblyInfo.cs
+I:\GitHub\CSharp12-Clean-Code-Practices\CleanCodePractices\CleanCodePractices\obj\Debug\net8.0\CleanCodePractices.csproj.CoreCompileInputs.cache
+I:\GitHub\CSharp12-Clean-Code-Practices\CleanCodePractices\CleanCodePractices\bin\Debug\net8.0\CleanCodePractices.exe
+I:\GitHub\CSharp12-Clean-Code-Practices\CleanCodePractices\CleanCodePractices\bin\Debug\net8.0\CleanCodePractices.deps.json
+I:\GitHub\CSharp12-Clean-Code-Practices\CleanCodePractices\CleanCodePractices\bin\Debug\net8.0\CleanCodePractices.runtimeconfig.json
+I:\GitHub\CSharp12-Clean-Code-Practices\CleanCodePractices\CleanCodePractices\bin\Debug\net8.0\CleanCodePractices.dll
+I:\GitHub\CSharp12-Clean-Code-Practices\CleanCodePractices\CleanCodePractices\bin\Debug\net8.0\CleanCodePractices.pdb
+I:\GitHub\CSharp12-Clean-Code-Practices\CleanCodePractices\CleanCodePractices\obj\Debug\net8.0\CleanCodePractices.dll
+I:\GitHub\CSharp12-Clean-Code-Practices\CleanCodePractices\CleanCodePractices\obj\Debug\net8.0\refint\CleanCodePractices.dll
+I:\GitHub\CSharp12-Clean-Code-Practices\CleanCodePractices\CleanCodePractices\obj\Debug\net8.0\CleanCodePractices.pdb
+I:\GitHub\CSharp12-Clean-Code-Practices\CleanCodePractices\CleanCodePractices\obj\Debug\net8.0\CleanCodePractices.genruntimeconfig.cache
+I:\GitHub\CSharp12-Clean-Code-Practices\CleanCodePractices\CleanCodePractices\obj\Debug\net8.0\ref\CleanCodePractices.dll

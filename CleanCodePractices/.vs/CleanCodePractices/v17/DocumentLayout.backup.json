@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\GitHub\\CSharp12-Clean-Code-Practices\\CleanCodePractices\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E46277A2-364C-4A8E-B5EB-4DD117491956}|CleanCodePractices\\CleanCodePractices.csproj|i:\\github\\csharp12-clean-code-practices\\cleancodepractices\\cleancodepractices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46277A2-364C-4A8E-B5EB-4DD117491956}|CleanCodePractices\\CleanCodePractices.csproj|solutionrelative:cleancodepractices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46277A2-364C-4A8E-B5EB-4DD117491956}|CleanCodePractices\\CleanCodePractices.csproj|i:\\github\\csharp12-clean-code-practices\\cleancodepractices\\cleancodepractices\\before\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46277A2-364C-4A8E-B5EB-4DD117491956}|CleanCodePractices\\CleanCodePractices.csproj|solutionrelative:cleancodepractices\\before\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46277A2-364C-4A8E-B5EB-4DD117491956}|CleanCodePractices\\CleanCodePractices.csproj|i:\\github\\csharp12-clean-code-practices\\cleancodepractices\\cleancodepractices\\after\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46277A2-364C-4A8E-B5EB-4DD117491956}|CleanCodePractices\\CleanCodePractices.csproj|solutionrelative:cleancodepractices\\after\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46277A2-364C-4A8E-B5EB-4DD117491956}|CleanCodePractices\\CleanCodePractices.csproj|i:\\github\\csharp12-clean-code-practices\\cleancodepractices\\cleancodepractices\\after\\mycustomattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46277A2-364C-4A8E-B5EB-4DD117491956}|CleanCodePractices\\CleanCodePractices.csproj|solutionrelative:cleancodepractices\\after\\mycustomattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46277A2-364C-4A8E-B5EB-4DD117491956}|CleanCodePractices\\CleanCodePractices.csproj|i:\\github\\csharp12-clean-code-practices\\cleancodepractices\\cleancodepractices\\after\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46277A2-364C-4A8E-B5EB-4DD117491956}|CleanCodePractices\\CleanCodePractices.csproj|solutionrelative:cleancodepractices\\after\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46277A2-364C-4A8E-B5EB-4DD117491956}|CleanCodePractices\\CleanCodePractices.csproj|i:\\github\\csharp12-clean-code-practices\\cleancodepractices\\cleancodepractices\\before\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46277A2-364C-4A8E-B5EB-4DD117491956}|CleanCodePractices\\CleanCodePractices.csproj|solutionrelative:cleancodepractices\\before\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46277A2-364C-4A8E-B5EB-4DD117491956}|CleanCodePractices\\CleanCodePractices.csproj|i:\\github\\csharp12-clean-code-practices\\cleancodepractices\\cleancodepractices\\after\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46277A2-364C-4A8E-B5EB-4DD117491956}|CleanCodePractices\\CleanCodePractices.csproj|solutionrelative:cleancodepractices\\after\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46277A2-364C-4A8E-B5EB-4DD117491956}|CleanCodePractices\\CleanCodePractices.csproj|i:\\github\\csharp12-clean-code-practices\\cleancodepractices\\cleancodepractices\\cleancodepractices.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E46277A2-364C-4A8E-B5EB-4DD117491956}|CleanCodePractices\\CleanCodePractices.csproj|solutionrelative:cleancodepractices\\cleancodepractices.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "I:\\GitHub\\CSharp12-Clean-Code-Practices\\CleanCodePractices\\CleanCodePractices\\After\\Shape.cs",
+              "RelativeDocumentMoniker": "CleanCodePractices\\After\\Shape.cs",
+              "ToolTip": "I:\\GitHub\\CSharp12-Clean-Code-Practices\\CleanCodePractices\\CleanCodePractices\\After\\Shape.cs*",
+              "RelativeToolTip": "CleanCodePractices\\After\\Shape.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:12:11.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CleanCodePractices",
+              "DocumentMoniker": "I:\\GitHub\\CSharp12-Clean-Code-Practices\\CleanCodePractices\\CleanCodePractices\\CleanCodePractices.csproj",
+              "RelativeDocumentMoniker": "CleanCodePractices\\CleanCodePractices.csproj",
+              "ToolTip": "I:\\GitHub\\CSharp12-Clean-Code-Practices\\CleanCodePractices\\CleanCodePractices\\CleanCodePractices.csproj",
+              "RelativeToolTip": "CleanCodePractices\\CleanCodePractices.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-29T14:54:14.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyCustomAttribute.cs",
+              "DocumentMoniker": "I:\\GitHub\\CSharp12-Clean-Code-Practices\\CleanCodePractices\\CleanCodePractices\\After\\MyCustomAttribute.cs",
+              "RelativeDocumentMoniker": "CleanCodePractices\\After\\MyCustomAttribute.cs",
+              "ToolTip": "I:\\GitHub\\CSharp12-Clean-Code-Practices\\CleanCodePractices\\CleanCodePractices\\After\\MyCustomAttribute.cs",
+              "RelativeToolTip": "CleanCodePractices\\After\\MyCustomAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:50:15.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Message.cs",
+              "DocumentMoniker": "I:\\GitHub\\CSharp12-Clean-Code-Practices\\CleanCodePractices\\CleanCodePractices\\After\\Message.cs",
+              "RelativeDocumentMoniker": "CleanCodePractices\\After\\Message.cs",
+              "ToolTip": "I:\\GitHub\\CSharp12-Clean-Code-Practices\\CleanCodePractices\\CleanCodePractices\\After\\Message.cs",
+              "RelativeToolTip": "CleanCodePractices\\After\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:45:44.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Message.cs",
+              "DocumentMoniker": "I:\\GitHub\\CSharp12-Clean-Code-Practices\\CleanCodePractices\\CleanCodePractices\\Before\\Message.cs",
+              "RelativeDocumentMoniker": "CleanCodePractices\\Before\\Message.cs",
+              "ToolTip": "I:\\GitHub\\CSharp12-Clean-Code-Practices\\CleanCodePractices\\CleanCodePractices\\Before\\Message.cs",
+              "RelativeToolTip": "CleanCodePractices\\Before\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:44:43.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "I:\\GitHub\\CSharp12-Clean-Code-Practices\\CleanCodePractices\\CleanCodePractices\\After\\Person.cs",
+              "RelativeDocumentMoniker": "CleanCodePractices\\After\\Person.cs",
+              "ToolTip": "I:\\GitHub\\CSharp12-Clean-Code-Practices\\CleanCodePractices\\CleanCodePractices\\After\\Person.cs",
+              "RelativeToolTip": "CleanCodePractices\\After\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:44:12.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "I:\\GitHub\\CSharp12-Clean-Code-Practices\\CleanCodePractices\\CleanCodePractices\\Before\\Person.cs",
+              "RelativeDocumentMoniker": "CleanCodePractices\\Before\\Person.cs",
+              "ToolTip": "I:\\GitHub\\CSharp12-Clean-Code-Practices\\CleanCodePractices\\CleanCodePractices\\Before\\Person.cs",
+              "RelativeToolTip": "CleanCodePractices\\Before\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:42:45.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\GitHub\\CSharp12-Clean-Code-Practices\\CleanCodePractices\\CleanCodePractices\\Program.cs",
+              "RelativeDocumentMoniker": "CleanCodePractices\\Program.cs",
+              "ToolTip": "I:\\GitHub\\CSharp12-Clean-Code-Practices\\CleanCodePractices\\CleanCodePractices\\Program.cs*",
+              "RelativeToolTip": "CleanCodePractices\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T14:42:21.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
